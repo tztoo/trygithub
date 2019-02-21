@@ -1,0 +1,2 @@
+# trygithub
+try import github
